@@ -68,7 +68,7 @@ Com essa configuração, é possível importar componentes usando caminhos relat
 
 O projeto está disponível na Vercel. Você pode acessá-lo através do seguinte link: 
 
-[CineTag na Vercel.]()
+[CineTag na Vercel.](https://cine-tag-beryl.vercel.app)
 
 ## :warning: Como Executar o Projeto
 
@@ -96,17 +96,21 @@ O projeto está disponível na Vercel. Você pode acessá-lo através do seguint
 
 Espero que este projeto ajude você a entender melhor o uso de Routes, Context API, hooks personalizados e estruturação de projetos em React. Boa programação! 🚀
 
-:handshake: Contribuição
+## :handshake: Contribuição
+
 Se você quiser contribuir com o projeto, siga os passos abaixo:
 
-Faça um fork deste repositório.
-Crie uma nova branch (git checkout -b feature/nova-feature).
-Faça commit das suas alterações (git commit -am 'Adiciona nova feature').
-Faça push para a branch (git push origin feature/nova-feature).
-Abra um Pull Request.
-:student: Autor
+    Faça um fork deste repositório.
+    Crie uma nova branch (git checkout -b feature/nova-feature).
+    Faça commit das suas alterações (git commit -am 'Adiciona nova feature').
+    Faça push para a branch (git push origin feature/nova-feature).
+    Abra um Pull Request.
 
-Charles Bruno
+## :student: Autor
 
-:page_facing_up: Licença
-Este projeto está licenciado sob a Licença MIT.
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/48035699?v=4" width=115><br><sub>Charles Bruno</sub>](https://github.com/charlesbrcosta)
+
+
+## :page_facing_up: Licença
+
+Este projeto está licenciado sob a [Licença MIT](https://www.mit.edu/~amini/LICENSE.md).
